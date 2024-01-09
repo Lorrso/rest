@@ -14,12 +14,11 @@
     ],
     "properties": {
       "id": {
-        "type": "number",
-        "multipleOf" : 0.00001
+        "type": "integer"
       },
       "name": {
         "type": "string",
-        "minLength": 1
+        "minLength": 10
       },
       "number": {
         "type": "string",
