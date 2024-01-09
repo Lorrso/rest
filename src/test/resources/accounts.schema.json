@@ -14,7 +14,8 @@
     ],
     "properties": {
       "id": {
-        "type": "number"
+        "type": "number",
+        "multipleOf" : 0.00001
       },
       "name": {
         "type": "string",
